@@ -1,6 +1,7 @@
 <h1> WebScraping Homework </h1>
 <br>
 <body>
+	<h2>Scraping in Jupyter Notebook</h2>
 <p>
 For my project, I used splinter and requests to help scrape the information I needed. 
 Using Jupyter notebook, I scraped for the following information: 
@@ -68,3 +69,4 @@ Output: 	title	img_url
 1	Schiaparelli Hemisphere Enhanced	http://astropedia.astrogeology.usgs.gov/downlo...
 2	Syrtis Major Hemisphere Enhanced	http://astropedia.astrogeology.usgs.gov/downlo...
 3	Valles Marineris Hemisphere Enhanced	http://astropedia.astrogeology.usgs.gov/downlo...
+	</li> </ul></p>
