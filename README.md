@@ -1,5 +1,5 @@
 <h1> WebScraping Homework </h1>
-<br>
+<hr>
 <body>
 	<h2>Scraping in Jupyter Notebook</h2>
 <p>
@@ -70,3 +70,15 @@ Output: 	title	img_url
 2	Syrtis Major Hemisphere Enhanced	http://astropedia.astrogeology.usgs.gov/downlo...
 3	Valles Marineris Hemisphere Enhanced	http://astropedia.astrogeology.usgs.gov/downlo...
 	</li> </ul></p>
+<hr>
+<h2>Creating the HTML</h2>
+<p>For the HTML doc, I imported bootstrap to help with the formatting and style. <em> (Use the index.html file for reference) <em> <p>
+<hr>
+	<h2>Implementing Flask</h2>
+	<p>I created the flask file (refer to app.py) to prep my program to run<p>
+<hr>
+	<h2>Transforming the Scrape</h2>
+	<p>In order for the scrape to work when I ran it in Visual Code Studio, I needed to convert it into a .py file in VCS. However when I tried running it in that program, I kept getting an error. VCS was saying that I did not have flask or pandas install when in fact I do - in order for my code to run, I had to do it in the command prompt. <P>
+<hr>
+		<h2>Challenges & Reflection</h2>
+		<p>My program ran successfully! Although this project took a ton of brain power, I really enjoyed it as it helped me fully understand the importance of each moving piece. Some challenges I face was during the scrapes, trying to find the correct tag to look for. I had to constantly open the inspect window to find them. Another challege I faced was that running the program on different days, the first scrape would come back as "none," and I found that article title tag would change day by day from an <a> tag to a <h1> tag. 
